@@ -24,7 +24,7 @@ I later joined [Forem](https://www.leforem.be/what-can-le-forem-do-for-you.html)
 
 <p style="text-align:right;">
 More details on LinkedIn <a href="https://www.linkedin.com/in/nicolas-riquet-78a414b7">
-  <img src="LinkedIn.png" alt="LinkedIn" style="width:20px;height:20px;">.
+  <img src="LinkedIn.png" alt="LinkedIn" style="width:20px;height:20px;">
 </a>
 </p>
 
