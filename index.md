@@ -14,7 +14,7 @@ I am a Belgian computer scientist, systems architect, and software engineer.
 
 I hold a Master (M2) of Science in Computer Science from the [University of Namur](https://www.unamur.be/en) and have been working since 2005 in various industries: pharmaceutical industry, space industry, and in government. I have held various positions in software engineering, R&D and technical management.
 
-# Professional experience
+## Professional experience
 
 After getting my degree I joined [Eli Lilly and Company](https://www.lilly.com/) as a **system analyst / software engineer** where I took part in the development of *molecule analysis- and lab asset management software*.
 
@@ -22,23 +22,23 @@ I was then hired by [Rhea Systems](https://www.rheagroup.com/) as a *software en
 
 I later joined [Forem](https://www.leforem.be/what-can-le-forem-do-for-you.html), Public Service for Employment and Vocational Training in Wallonia, Belgium, as a *systems architect*. My responsibilities included the architecture of the information system, the technical design of new applications, code reviews, technology research, technical studies, and proofs of concept. I am still currently working at Forem where I hold the position of *Head of Software Engineering Productivity and RHD, leading a team of 21 engineers and architects*.
 
-# Research
+## Research
 
 I will soon be starting a PhD in Computer Science, in the field of Software Engineering. My research interests are the following: empirical software engineering, data-driven software development, technical debt, DevOps, software engineering for machine learning.
 
-## Scientific conferences attended
+### Scientific conferences attended
 
 * MSR 2021
 * ICSE 2021
 * ECOOP/ISSTA 2021
 * ESEC/FSE 2021
 
-## Contributions
+### Contributions
 
-# Open Source research tools
+#### Open Source research tools
 
-[GitDelver](https://github.com/nicolasriquet/GitDelver)
+*[GitDelver](https://github.com/nicolasriquet/GitDelver)
 
-# Personal
+## Personal
 
 I am a technology geek, [tabletop roleplayer](https://en.wikipedia.org/wiki/Tabletop_role-playing_game) (games played with weird dice - [Dungeons & Dragons](https://dnd.wizards.com/) being the most famous one), Star Trek and Formula 1 fan.
