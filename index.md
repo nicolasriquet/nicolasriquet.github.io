@@ -24,7 +24,7 @@ I later joined [Forem](https://www.leforem.be/what-can-le-forem-do-for-you.html)
 
 ## Research
 
-I will soon be starting a PhD in Computer Science, in the field of Software Engineering. My research interests are the following: empirical software engineering, data-driven software development, technical debt, DevOps, software engineering for machine learning.
+I will **soon be starting a PhD in Computer Science**, in the field of Software Engineering. My research interests are the following: empirical software engineering, data-driven software development, technical debt, DevOps, software engineering for machine learning.
 
 ### Scientific conferences attended
 
