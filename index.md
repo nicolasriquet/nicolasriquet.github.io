@@ -22,7 +22,7 @@ I was then hired by [Rhea Systems](https://www.rheagroup.com/) as a **software e
 
 I later joined [Forem](https://www.leforem.be/what-can-le-forem-do-for-you.html), Public Service for Employment and Vocational Training in Wallonia, Belgium, as a **systems architect**. My responsibilities included the architecture of the information system, the technical design of new applications, code reviews, technology research, technical studies, and proofs of concept. I am still currently working at Forem where I hold the position of **Head of Software Engineering Productivity and R&D, leading a team of 21 software/DevOps engineers and architects**.
 
-Click here for More details <a href="https://www.linkedin.com/in/nicolas-riquet-78a414b7">
+Click here for more details: <a href="https://www.linkedin.com/in/nicolas-riquet-78a414b7">
   <img src="LinkedIn.png" alt="LinkedIn" style="width:20px;height:20px;">.
 </a>
 
