@@ -43,4 +43,4 @@ I will **soon be starting a PhD in Computer Science**, in the field of Software 
 
 ## Personal
 
-I am a technology geek, [tabletop roleplayer](https://en.wikipedia.org/wiki/Tabletop_role-playing_game) (games played with weird dice - [Dungeons & Dragons](https://dnd.wizards.com/) being the most famous one), Star Trek and Formula 1 fan.
+I am a science and technology geek, a [tabletop roleplayer](https://en.wikipedia.org/wiki/Tabletop_role-playing_game) (games played with weird dice - [Dungeons & Dragons](https://dnd.wizards.com/) being the most famous one), a Star Trek and Formula 1 fan.
