@@ -8,7 +8,7 @@
   gtag('config', 'UA-148953677-1');
 </script>
 
-# Welcome to Nicolas Riquet's homepage
+# Nicolas Riquet's homepage
 
 I am a Belgian computer scientist, systems architect, and software engineer.
 
