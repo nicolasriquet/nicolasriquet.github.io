@@ -37,7 +37,7 @@ I will soon be starting a PhD in Computer Science, in the field of Software Engi
 
 #### Open Source research tools
 
-*[GitDelver](https://github.com/nicolasriquet/GitDelver)
+* [GitDelver](https://github.com/nicolasriquet/GitDelver)
 
 ## Personal
 
