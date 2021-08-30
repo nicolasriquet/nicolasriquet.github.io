@@ -15,7 +15,6 @@ I am a Belgian computer scientist, software engineer, and technology manager.
 I hold a Master (M2) of Science in Computer Science from the [University of Namur](https://www.unamur.be/en) and have been working since 2005 in various industries: pharmaceutical industry, space industry, and government. I have held various positions in software engineering, R&D and technical management.
 
 ## Professional experience
-
 <p style="text-align:right;">
 <a href="https://www.linkedin.com/in/nicolas-riquet-78a414b7">
   <img src="LinkedIn.png" alt="LinkedIn" style="width:20px;height:20px;">
