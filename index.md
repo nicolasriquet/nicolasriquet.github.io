@@ -26,7 +26,7 @@ I later joined [Forem](https://www.leforem.be/what-can-le-forem-do-for-you.html)
 
 I am conducting research in the field of **Software Engineering**. My research interests are the following: empirical software engineering, data-driven software development, technical debt, DevOps, software and engineering for machine learning.
 
-### Scientific conferences attended
+### Software Engineering conferences attended
 
 * MSR 2021
 * ICSE 2021
