@@ -10,7 +10,7 @@
 
 # Nicolas Riquet's homepage
 
-I am a Belgian computer scientist, systems architect, and software engineer.
+I am a Belgian computer scientist, software engineer, and technology manager.
 
 I hold a Master (M2) of Science in Computer Science from the [University of Namur](https://www.unamur.be/en) and have been working since 2005 in various industries: pharmaceutical industry, space industry, and government. I have held various positions in software engineering, R&D and technical management.
 
@@ -38,6 +38,7 @@ I will **soon be starting a PhD in Computer Science**, in the field of Software 
 * ICSE 2021
 * ECOOP/ISSTA 2021
 * ESEC/FSE 2021
+* CIbSE 2021
 
 ### Contributions
 
