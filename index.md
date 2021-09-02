@@ -16,7 +16,7 @@ I hold a Master (M2) of Science in Computer Science from the [University of Namu
 
 ## Professional experience
 
-After getting my Master’s degree in 2005 I joined [Eli Lilly and Company](https://www.lilly.com/) as a **system analyst / software engineer** where I took part in the development of *molecule analysis software and in the development of a lab asset management application*.
+After getting my Master’s degree in 2005 I joined [Eli Lilly and Company](https://www.lilly.com/) as a **system analyst / software engineer** where I took part in the development of **molecule analysis software and in the development of a lab asset management application**.
 
 I was then hired by [Rhea Systems](https://www.rheagroup.com/) as a **software engineer** where I worked on various applications for **managing and simulating the execution of spacecraft flight procedures**. I also developed **spacecraft telemetry data analysis software**, as well as an **interpreter and integrated development environment for an industry-specific scripting language** called PLUTO.  This job gave me the opportunity of working on *European Space Missions* such as [Galileo](https://www.esa.int/Applications/Navigation/Galileo/What_is_Galileo) (global navigation satellite system), [Herschel-Planck](https://www.esa.int/Science_Exploration/Space_Science/Herschel/ESA_to_launch_two_large_observatories_to_look_deep_into_space_and_time) (space observatories), and [ATV](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/Mission_concept_and_the_role_of_ATV) (expendable cargo spacecraft).
 
