@@ -10,9 +10,9 @@
 
 # Nicolas Riquet's homepage
 
-I am a Belgian researcher in computer science (software engineering) and technology manager (information systems, software/DevOps engineering).
+I am a Belgian computer scientist and technology manager. My main interests are in the fields of information systems engineering and software engineering.
 
-I hold a Master (M2) of Science in Computer Science from the [University of Namur](https://www.unamur.be/en) and have been working since 2005 in various industries: pharmaceutical industry, space industry, and government. I have held various positions in software engineering, R&D and technical management.
+I earned a Master (M2) of Science in Computer Science from the [University of Namur](https://www.unamur.be/en) and have been working since 2005 in various industries: pharmaceutical industry, space industry, and government. I have held various positions in software engineering, R&D and technical management.
 
 ## Professional experience
 
