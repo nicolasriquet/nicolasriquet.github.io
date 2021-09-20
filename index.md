@@ -10,7 +10,7 @@
 
 # Nicolas Riquet's homepage
 
-I am a Belgian technology manager and researcher. My interest lies in systems and software engineering, and R&D.
+I am a Belgian computer scientist and technology manager interested in systems architecture, software engineering, and R&D.
 
 I earned a Msc in Computer Science from the [University of Namur](https://www.unamur.be/en) and have been working since 2005 in various industries: pharmaceutical industry, space industry, and government. I have held various positions in software engineering, R&D and technical management.
 
