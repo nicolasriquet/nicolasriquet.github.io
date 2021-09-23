@@ -10,7 +10,7 @@
 
 # Nicolas Riquet's homepage
 
-I am a Belgian computer scientist and technology manager interested in systems architecture, software engineering, and R&D.
+I am a Belgian computer scientist and technology manager.
 
 I earned a Msc in Computer Science from the [University of Namur](https://www.unamur.be/en) and have been working since 2005 in various industries: pharmaceutical industry, space industry, and government. I have held various positions in software engineering, R&D and technical management.
 
@@ -24,7 +24,7 @@ I later joined [Forem](https://www.leforem.be/what-can-le-forem-do-for-you.html)
 
 ## Research
 
-I am conducting industrial research in the field of **Software Engineering**. My research interests are the following: empirical software engineering, data-driven software development, technical debt, DevOps, software engineering for machine learning.
+I am conducting research in the field of **Software Engineering**. My research interests are the following: empirical software engineering, information systems architecture, technical debt, data-driven software development, DevOps, software engineering for machine learning.
 
 ### conferences attended
 
