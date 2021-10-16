@@ -12,7 +12,7 @@
 
 I am a Belgian computer scientist and technology manager.
 
-I earned a Msc in Computer Science from the [University of Namur](https://www.unamur.be/en) and have been working since 2005 in various industries: pharmaceutical industry, space industry, and government. I have held various positions in software engineering, R&D and technical management.
+I earned a MSc in Computer Science from the [University of Namur](https://www.unamur.be/en) and have been working since 2005 in various industries: pharmaceutics, space, and government. I have held various positions in software engineering, software/systems architecture, R&D and technical management.
 
 ## Professional experience
 
