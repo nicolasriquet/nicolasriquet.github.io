@@ -28,8 +28,7 @@ I am conducting research in the field of **Software Engineering**. My research i
 
 ### Research groups
 
-I am a member of the following research groups:
-* Software Normalization Assessment and Improvement Lab at University of Namur (SNAIL): https://snail.info.unamur.be.
+* Software Normalization Assessment and Improvement Lab (SNAIL): [SNAIL](https://snail.info.unamur.be).
 
 ### Conferences attended
 
