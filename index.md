@@ -26,7 +26,10 @@ I later joined [Forem](https://www.leforem.be/what-can-le-forem-do-for-you.html)
 
 I am conducting research in the field of **Software Engineering**. My research interests are the following: empirical software engineering, data science in software engineering, technical debt, software/systems architecture, DevOps, software engineering for machine learning.
 
-I am a member of the Software Normalization Assessment and Improvement Lab at University of Namur (SNAIL): https://snail.info.unamur.be/, https://snail.info.unamur.be/project/phd-nicolas-riquet/.
+### Research groups
+
+I am a member of the following research groups:
+* Software Normalization Assessment and Improvement Lab at University of Namur (SNAIL): https://snail.info.unamur.be.
 
 ### Conferences attended
 
