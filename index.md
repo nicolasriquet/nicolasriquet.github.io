@@ -10,9 +10,15 @@
 
 # Nicolas Riquet's homepage
 
-I am a Belgian computer scientist and technology manager.
+Welcome to my homepage!
 
-I earned a MSc in Computer Science from the [University of Namur](https://www.unamur.be/en) and have been working since 2005 in various industries: pharmaceutics, space, and government. I have held various positions in software engineering, software/systems architecture, R&D and technical management.
+I am a Belgian computer scientist and technology manager. I have been working since 2005 in various environments (pharmaceutics and space industries but also government) and I have had the opportunity of holding various positions in software engineering, software/systems architecture, R&D and management.
+
+I also conduct research in Computer Science / Software Engineering at the [University of Namur](https://www.unamur.be/en) as a PhD student.
+
+## Education
+
+I earned a MSc in Computer Science from the University of Namur in 2005 and I started a PhD in Computer Science in 2021 (also at the University of Namur).
 
 ## Professional experience
 
@@ -24,11 +30,23 @@ I later joined [Forem](https://www.leforem.be/what-can-le-forem-do-for-you.html)
 
 ## Research
 
-I am conducting research in the field of **Software Engineering**. My research interests are the following: empirical software engineering, data science in software engineering, technical debt, software/systems architecture, DevOps, software engineering for machine learning.
+I am conducting research in the field of **Software Engineering**. My research interests are the following: empirical software engineering, data science in software engineering, technical debt, software/systems architecture, DevOps, machine learning for software engineering.
 
 ### Research groups
 
 * Software Normalization Assessment and Improvement Lab (SNAIL): [SNAIL](https://snail.info.unamur.be).
+
+### Contributions
+
+#### Publications
+
+November 2021: I have submitted a paper and an abstract prestation to two conferences and they are currently being reviewed. I am currently working on a second paper.
+
+Stay tuned for more information on this topic.
+
+#### Open Source research tools
+
+I have developed [GitDelver](https://github.com/nicolasriquet/GitDelver), a Python tool for analyzing Git repositories in bulk and generating various datasets for research purposes.
 
 ### Conferences attended
 
@@ -39,13 +57,4 @@ I am conducting research in the field of **Software Engineering**. My research i
 * CIbSE 2021
 * ICSME 2021
 * SSBSE 2021
-
-### Contributions
-
-#### Open Source research tools
-
-* [GitDelver](https://github.com/nicolasriquet/GitDelver)
-
-## Personal
-
-I am a science and technology geek, a [tabletop roleplayer](https://en.wikipedia.org/wiki/Tabletop_role-playing_game) (games played with weird dice - [Dungeons & Dragons](https://dnd.wizards.com/) being the most famous one), a Star Trek and Formula 1 fan.
+* ASE 2021
