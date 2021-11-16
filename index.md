@@ -34,7 +34,7 @@ I am conducting research in Computer Science / Software Engineering. My research
 
 ### Research groups
 
-* Software Normalization Assessment and Improvement Lab (SNAIL): [SNAIL](https://snail.info.unamur.be).
+* Software Normalization Assessment and Improvement Lab ([SNAIL](https://snail.info.unamur.be)).
 
 ### Contributions
 
