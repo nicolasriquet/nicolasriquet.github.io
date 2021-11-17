@@ -50,11 +50,12 @@ I have developed [GitDelver](https://github.com/nicolasriquet/GitDelver), a Pyth
 
 ### Conferences attended
 
-* MSR 2021
-* ICSE 2021
-* ECOOP/ISSTA 2021
-* ESEC/FSE 2021
-* CIbSE 2021
-* ICSME 2021
-* SSBSE 2021
-* ASE 2021
+* Mining Software Repositories Conference (MSR) 2021
+* International Conference on Software Engineering (ICSE) 2021
+* European Conference on Object-Oriented Programming (ECOOP) 2021
+* International Symposium on Software Testing and Analysis (ISSTA) 2021
+* European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) 2021
+* Ibero-American Conference on Software Engineering (CIbSE) 2021
+* International Conference on Software Maintenance and Evolution (ICSME) 2021
+* Symposium on Search-Based Software Engineering (SSBSE 2021)
+* International Conference on Automated Software Engineering (ASE 2021)
