@@ -38,11 +38,9 @@ I am conducting research in Computer Science / Software Engineering. My research
 
 ### Contributions
 
-#### Publications
+#### Accepted submissions and publications
 
-November 2021: I have submitted a paper and an abstract prestation to two conferences and they are currently being reviewed. I am currently working on a second paper.
-
-Stay tuned for more information on this topic.
+November 2021: I have submitted a paper and an abstract prestation to two conferences and they are currently being reviewed. I am currently working on a second paper. Stay tuned for more information on this topic.
 
 #### Open Source research tools
 
@@ -57,5 +55,6 @@ I have developed [GitDelver](https://github.com/nicolasriquet/GitDelver), a Pyth
 * European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) 2021
 * Ibero-American Conference on Software Engineering (CIbSE) 2021
 * International Conference on Software Maintenance and Evolution (ICSME) 2021
-* Symposium on Search-Based Software Engineering (SSBSE 2021)
-* International Conference on Automated Software Engineering (ASE 2021)
+* Symposium on Search-Based Software Engineering (SSBSE) 2021
+* International Conference on Automated Software Engineering (ASE) 2021
+* Belgium-Netherlands Software Evolution Workshop (BENEVOL) 2021
