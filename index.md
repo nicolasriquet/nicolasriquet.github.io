@@ -40,7 +40,7 @@ I am conducting research in Computer Science / Software Engineering. My research
 
 #### Accepted submissions and publications
 
-November 2021: I have submitted a paper and an abstract prestation to two conferences and they are currently being reviewed. I am currently working on a second paper. Stay tuned for more information on this topic.
+* Belgium-Netherlands Software Evolution Workshop (BENEVOL) 2021: 'A first case study about key socio-technical software indicators at Forem' (presentation abstract).
 
 #### Open Source research tools
 
@@ -48,13 +48,13 @@ I have developed [GitDelver](https://github.com/nicolasriquet/GitDelver), a Pyth
 
 ### Conferences attended
 
-* Mining Software Repositories Conference (MSR) 2021
-* International Conference on Software Engineering (ICSE) 2021
-* European Conference on Object-Oriented Programming (ECOOP) 2021
-* International Symposium on Software Testing and Analysis (ISSTA) 2021
-* European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) 2021
-* Ibero-American Conference on Software Engineering (CIbSE) 2021
-* International Conference on Software Maintenance and Evolution (ICSME) 2021
-* Symposium on Search-Based Software Engineering (SSBSE) 2021
-* International Conference on Automated Software Engineering (ASE) 2021
-* Belgium-Netherlands Software Evolution Workshop (BENEVOL) 2021
+* Mining Software Repositories Conference (MSR) 2021.
+* International Conference on Software Engineering (ICSE) 2021.
+* European Conference on Object-Oriented Programming (ECOOP) 2021.
+* International Symposium on Software Testing and Analysis (ISSTA) 2021.
+* European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) 2021.
+* Ibero-American Conference on Software Engineering (CIbSE) 2021.
+* International Conference on Software Maintenance and Evolution (ICSME) 2021.
+* Symposium on Search-Based Software Engineering (SSBSE) 2021.
+* International Conference on Automated Software Engineering (ASE) 2021.
+* Belgium-Netherlands Software Evolution Workshop (BENEVOL) 2021.
