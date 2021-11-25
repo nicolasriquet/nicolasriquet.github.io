@@ -42,9 +42,9 @@ I am conducting research in Computer Science / Software Engineering. My research
 
 * Belgium-Netherlands Software Evolution Workshop (BENEVOL) 2021: 'A first case study about key socio-technical software indicators at Forem' (presentation abstract).
 
-#### Open Source research tools
+#### Open Source tools
 
-I have developed [GitDelver](https://github.com/nicolasriquet/GitDelver), a Python tool for analyzing Git repositories in bulk and generating various datasets for research purposes.
+* [GitDelver](https://github.com/nicolasriquet/GitDelver), a Python tool for analyzing Git repositories in bulk and generating various datasets for research purposes.
 
 ### Conferences attended
 
