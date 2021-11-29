@@ -18,7 +18,7 @@ I have been working since 2005 in various environments (pharmaceutics and space 
 
 I am also a [Computer Science / Software Engineering researcher and PhD student](https://directory.unamur.be/staff/nriquet?_LOCALE_=en) at the [University of Namur](https://www.unamur.be/en).
 
-## Professional experience
+## Industry
 
 After getting my Master’s degree in 2005 I joined [Eli Lilly and Company](https://www.lilly.com/) as a system analyst / software engineer where I took part in the development of molecule analysis software and in the development of a lab asset management application.
 
