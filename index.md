@@ -40,7 +40,7 @@ I am conducting research in Computer Science / Software Engineering. My research
 
 #### Accepted submissions and publications
 
-* Belgium-Netherlands Software Evolution Workshop (BENEVOL) 2021: 'A first case study about key socio-technical software indicators at Forem'.
+* Belgium-Netherlands Software Evolution Workshop (BENEVOL) 2021: 'A first case study about key socio-technical software indicators at Forem' ([link](https://benevol2021.github.io/papers/BENEVOL_2021_paper_7.pdf)).
 
 #### Open Source tools
 
