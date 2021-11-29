@@ -38,6 +38,10 @@ I am conducting research in Computer Science / Software Engineering. My research
 
 ### Contributions
 
+#### Theses
+
+* Master's thesis: 'Modelling e-business: an approach based on combining UMM and UEML' ([link](https://researchportal.unamur.be/fr/studentTheses/modelling-e-business-an-approach-based-on-combining-umm-and-ueml)).
+
 #### Accepted submissions and publications
 
 * Belgium-Netherlands Software Evolution Workshop (BENEVOL) 2021: 'A first case study about key socio-technical software indicators at Forem' ([link](https://benevol2021.github.io/papers/BENEVOL_2021_paper_7.pdf)).
