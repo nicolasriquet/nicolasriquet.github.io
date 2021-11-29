@@ -14,7 +14,7 @@ Welcome to my homepage!
 
 I am a Belgian computer scientist and technology manager. I have been working since 2005 in various environments (pharmaceutics and space industries but also government) and I have had the opportunity of holding various positions in software engineering, software/systems architecture, R&D and management.
 
-I also conduct research in Computer Science / Software Engineering at the [University of Namur](https://www.unamur.be/en) as a PhD student.
+I also conduct research in Computer Science / Software Engineering at the [University of Namur](https://www.unamur.be/en) as a PhD student ([UNamur staff directory page](https://directory.unamur.be/staff/nriquet?_LOCALE_=en)).
 
 ## Education
 
