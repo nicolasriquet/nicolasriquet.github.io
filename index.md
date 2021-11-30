@@ -36,7 +36,7 @@ I am conducting research in Computer Science / Software Engineering. My research
 
 ### Contributions
 
-#### Theses
+#### Theses and dissertations
 
 * Master's thesis: 'Modelling e-business: an approach based on combining UMM and UEML' ([link](https://researchportal.unamur.be/fr/studentTheses/modelling-e-business-an-approach-based-on-combining-umm-and-ueml)).
 
