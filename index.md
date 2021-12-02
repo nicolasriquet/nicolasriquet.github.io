@@ -28,10 +28,12 @@ I later joined [Forem](https://www.leforem.be/what-can-le-forem-do-for-you.html)
 
 ## Research
 
-I am conducting research in Computer Science / Software Engineering. My research interests are the following: empirical software engineering, data science in software engineering, technical debt, software/systems architecture, DevOps, machine learning for software engineering.
+I am conducting research in Computer Science / Software Engineering. My research interests are the following: empirical software engineering, socio-technical debt, software/systems architecture, DevOps, data science in software engineering, machine learning for software engineering.
 
-### Research groups
+### Research institutions / groups
 
+* Namur Digital Institute ([NADI](https://nadi.unamur.be)).
+* Research Center in Information System Engineering ([PReCISE](https://nadi.unamur.be/research-centers/precise)).
 * Software Normalization Assessment and Improvement Lab ([SNAIL](https://snail.info.unamur.be)).
 
 ### Contributions
