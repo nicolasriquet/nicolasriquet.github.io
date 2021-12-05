@@ -28,7 +28,7 @@ I later joined [Forem](https://www.leforem.be/what-can-le-forem-do-for-you.html)
 
 ## Research
 
-I conduct research in Computer Science. My research interests are the following: software engineering, socio-technical debt, maintainability, information system architecture, security, DevOps, data science in software engineering.
+I conduct research in Computer Science and Software Engineering.
 
 ### Research institutions / groups
 
