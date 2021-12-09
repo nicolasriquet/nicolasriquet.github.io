@@ -32,8 +32,7 @@ I conduct research in Computer Science and Software Engineering.
 
 ### Research institutions / groups
 
-* Namur Digital Institute ([NADI](https://nadi.unamur.be)).
-* Research Center in Information System Engineering ([PReCISE](https://nadi.unamur.be/research-centers/precise)).
+* UNamur Faculty of Computer Science ([UNamurCSFaculty](https://directory.unamur.be/entities/inf))
 * Software Normalization Assessment and Improvement Lab ([SNAIL](https://snail.info.unamur.be)).
 
 ### Contributions
