@@ -12,9 +12,9 @@
 
 Welcome to my homepage!
 
-I am a Belgian technology manager and Software Engineering researcher.
+I am a Belgian Information Technology Manager, Researcher & PhD student. My main areas of interests are Software & Information Systems Engineering and Information Security.
 
-I have been working since 2005 in various environments (pharmaceutics and space industries but also government) and I have had the opportunity of holding various positions in software engineering, software/systems architecture, R&D and management.
+I have been working since 2005 in various environments (pharmaceutics and space industries but also government) and I have had the opportunity of holding various positions in software engineering, software/systems architecture, and technical management.
 
 I am also a [Software Engineering researcher and PhD student](https://directory.unamur.be/staff/nriquet?_LOCALE_=en) at the [University of Namur](https://www.unamur.be/en/inf).
 
