@@ -12,7 +12,7 @@
 
 Welcome to my homepage!
 
-I am a Belgian Information Technology Manager, Researcher & PhD student. My main areas of interests are Software & Information Systems Engineering and Information Security.
+I am a Belgian nformation Technology Manager and Computer Scientist. My main areas of interests are Information Systems Engineering and Information Security.
 
 I have been working since 2005 in various environments (pharmaceutics and space industries but also government) and I have had the opportunity of holding various positions in software engineering, software/systems architecture, and technical management.
 
