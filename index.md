@@ -39,6 +39,7 @@ I conduct research in Software Engineering.
 
 #### Accepted submissions and publications
 
+* Mining Software Repositories Conference (MSR) 2022: 'GitDelver Enterprise Dataset (GDED): An Industrial Closed-source Dataset for Socio-Technical Research'.
 * Belgium-Netherlands Software Evolution Workshop (BENEVOL) 2021: 'A first case study about key socio-technical software indicators at Forem' ([link](https://benevol2021.github.io/papers/BENEVOL_2021_paper_7.pdf)).
 
 #### Theses
@@ -51,8 +52,8 @@ I conduct research in Software Engineering.
 
 ### Conferences attended
 
-* Mining Software Repositories Conference (MSR) 2021.
-* International Conference on Software Engineering (ICSE) 2021.
+* Mining Software Repositories Conference (MSR) 2021, 2022.
+* International Conference on Software Engineering (ICSE) 2021, 2022.
 * European Conference on Object-Oriented Programming (ECOOP) 2021.
 * International Symposium on Software Testing and Analysis (ISSTA) 2021.
 * European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) 2021.
